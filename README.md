@@ -31,4 +31,4 @@ Included in the `Datasets` folder:
 ## How to Run
 1. Download or clone this repository
 2. Install the libraries: pandas, numpy, matplotlib, seaborn, jupyter
-3. Open `Apollo_No_Show_Analysis.ipynb` and choose Run All
+3. Open `Milestone 4 - Apollo Hospitals.ipynb` and choose Run All
